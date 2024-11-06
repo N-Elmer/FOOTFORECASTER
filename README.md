@@ -5,6 +5,7 @@ FOOT-FORECASTER is a web application that provides forecasted wins for each team
 
 ## Folder Structure
 
+```
 📂 FOOT-FORECASTER
    
    |
@@ -56,6 +57,7 @@ FOOT-FORECASTER is a web application that provides forecasted wins for each team
    ├── 📄 app.py
    
    └── 📄 requirements.txt
+```
 
 The project folder structure consists of the following files and folders:
 
